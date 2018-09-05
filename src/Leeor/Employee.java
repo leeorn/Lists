@@ -13,7 +13,6 @@ public class Employee
     private String lastName;
     private int id;
 
-
     Employee(String firstName, String lastName, int id)
     {
         this.firstName = firstName;
